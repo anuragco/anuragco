@@ -20,8 +20,9 @@ Hi, I'm Anurag Anand, a dedicated developer specializing in creating dynamic and
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/anuragco) 
-  [![Sponsor](https://global.discourse-cdn.com/mcneel/uploads/default/original/4X/5/3/f/53f998407546bc393ca43387eed0183bef92b8d4.png?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://github.com/sponsors/anuragco/button) 
-  
+<a href="https://github.com/sponsors/anuragco/button" target="_blank">
+  <img src="https://global.discourse-cdn.com/mcneel/uploads/default/original/4X/5/3/f/53f998407546bc393ca43387eed0183bef92b8d4.png?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Sponsor" height="30" width="150">
+</a>  
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
